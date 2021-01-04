@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi, I’m Walter Salas. Nice to meet you. 👋
+
+I **design** and **code** beautifully simple things, and I love what I do.
+
 
 <!--
 **WalterSalas/WalterSalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
