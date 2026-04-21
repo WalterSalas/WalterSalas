@@ -2,8 +2,6 @@
 
 📍 **Monterrey, N.L. 🇲🇽** | 💼 **Frontend Developer** | 🚀 **Building Scalable Web Solutions & Automation**
 
-![Profile Views](https://komarev.com/ghpvc/?username=WalterSalas&color=0078D4)
-
 [![Website](https://img.shields.io/badge/Website-waltersalas.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://waltersalas.com)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -35,6 +33,7 @@ When I'm not in front of the terminal, you can find me:
 ---
 
 ## 🔗 Connect with me
+![Profile Views](https://komarev.com/ghpvc/?username=WalterSalas&color=0078D4)
 
 [![Website](https://img.shields.io/badge/waltersalas.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://waltersalas.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waltersalas/)
