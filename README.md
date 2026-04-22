@@ -30,8 +30,9 @@ When I'm not in front of the terminal, you can find me:
 - 🕹️ **RetroGamer:** Collecting and playing the classics that defined the industry.
 - 👾 **Gamer Life:** Enjoying the latest trends in gaming culture.
 
-### 🏆 Fortnite Career Stats
-[![Fortnite Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Ffortnite-api.com%2Fv1%2Fstats%2Fbr%2Fv2%3Fname%3DCalayesy%26accountType%3Depic&style=flat-square&color=blue&label=Fortnite%20Wins)](https://fortnitetracker.com/profile/all/Calayesy)
+### 🎮 Gaming Performance
+![](https://img.shields.io/badge/Fortnite-Calayesy-blueviolet?style=flat-square&logo=fortnite&logoColor=white) 
+![](https://img.shields.io/badge/Status-Battle%20Royale-success?style=flat-square)
 
 ---
 
