@@ -31,9 +31,7 @@ When I'm not in front of the terminal, you can find me:
 - 👾 **Gamer Life:** Enjoying the latest trends in gaming culture.
 
 ### 🏆 Fortnite Career Stats
-<p align="left">
-  <img src="https://fortnite-api.com/v1/stats/br/v2?name=Calayesy&timeWindow=lifetime&image=all" alt="Fortnite Stats" width="480">
-</p>
+[![Fortnite Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Ffortnite-api.com%2Fv1%2Fstats%2Fbr%2Fv2%3Fname%3DCalayesy%26accountType%3Depic&style=flat-square&color=blue&label=Fortnite%20Wins)](https://fortnitetracker.com/profile/all/Calayesy)
 
 ---
 
