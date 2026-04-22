@@ -31,8 +31,9 @@ When I'm not in front of the terminal, you can find me:
 - 👾 **Gamer Life:** Enjoying the latest trends in gaming culture.
 
 ### 🎮 Gaming Performance
-![](https://img.shields.io/badge/Fortnite-Calayesy-blueviolet?style=flat-square&logo=fortnite&logoColor=white) 
-![](https://img.shields.io/badge/Status-Battle%20Royale-success?style=flat-square)
+[![Fortnite](https://img.shields.io/badge/Fortnite-Calayesy-blueviolet?style=for-the-badge&logo=fortnite&logoColor=white)](https://fortnitetracker.com/profile/all/Calayesy)
+[![Stats](https://img.shields.io/badge/View_Career_Stats-FFD700?style=for-the-badge&logo=target&logoColor=black)](https://fortnitetracker.com/profile/all/Calayesy)
+
 
 ---
 
