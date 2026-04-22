@@ -30,6 +30,11 @@ When I'm not in front of the terminal, you can find me:
 - 🕹️ **RetroGamer:** Collecting and playing the classics that defined the industry.
 - 👾 **Gamer Life:** Enjoying the latest trends in gaming culture.
 
+### 🏆 Fortnite Career Stats
+<p align="left">
+  <img src="https://fortnite-api.com/v1/stats/br/v2?name=Calayesy&timeWindow=lifetime&image=all" alt="Fortnite Stats" width="480">
+</p>
+
 ---
 
 ## 🔗 Connect with me
@@ -43,3 +48,4 @@ When I'm not in front of the terminal, you can find me:
 
 ### 📊 My GitHub Stats
 [![Walter's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WalterSalas&theme=github-dark)](https://github.com/WalterSalas)
+
